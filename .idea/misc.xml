@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Cloud-Config-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-panel-oliy-mahad/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka-server-of-Oliy-Mahad/pom.xml" />
+        <option value="$PROJECT_DIR$/Api-Gateway-of-Oliy-Mahad-project/pom.xml" />
+        <option value="$PROJECT_DIR$/User-Section-of-Oliy-Mahad-project/pom.xml" />
+        <option value="$PROJECT_DIR$/Course-section-of-Oliy-Mahad-project/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+</project>

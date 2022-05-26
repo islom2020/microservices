@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Api-Gateway-of-Oliy-Mahad-project/Api-Gateway.iml" filepath="$PROJECT_DIR$/Api-Gateway-of-Oliy-Mahad-project/Api-Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-panel-oliy-mahad/admin-panel.iml" filepath="$PROJECT_DIR$/admin-panel-oliy-mahad/admin-panel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cloud-Config-Service/cloud-config-server.iml" filepath="$PROJECT_DIR$/Cloud-Config-Service/cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course-section-of-Oliy-Mahad-project/course-service.iml" filepath="$PROJECT_DIR$/Course-section-of-Oliy-Mahad-project/course-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-server-of-Oliy-Mahad/eureka-server.iml" filepath="$PROJECT_DIR$/Eureka-server-of-Oliy-Mahad/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oliy-mahad-project.iml" filepath="$PROJECT_DIR$/.idea/oliy-mahad-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User-Section-of-Oliy-Mahad-project/user-service.iml" filepath="$PROJECT_DIR$/User-Section-of-Oliy-Mahad-project/user-service.iml" />
+    </modules>
+  </component>
+</project>
